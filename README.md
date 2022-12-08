@@ -1,4 +1,4 @@
-# Lab - Class 07
+# Lab - Class 08
 
 ## Project: Auth API
 
